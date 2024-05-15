@@ -1,5 +1,6 @@
 # Qiskit-Primitive
-This Notebook is the product of Edoardo Zappia's modification of the Notebook you can find here: 
+
+The notebooks 10novembre_Qiskit and Qiskit_colab are the product of Edoardo Zappia's modification of the Notebook you can find here: 
 
 https://github.com/grossiM/LAB_Quantum_Computation23/tree/main 
 
